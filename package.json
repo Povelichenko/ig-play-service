@@ -1,0 +1,15 @@
+{
+  "name": "ig-play-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Instagram resolver via Playwright",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "morgan": "^1.10.0",
+    "playwright": "^1.44.0"
+  }
+}
